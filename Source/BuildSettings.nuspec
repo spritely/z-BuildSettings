@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>Spritely.BuildSettings</id>
+        <version>$version$</version>
+        <title>Spritely.BuildSettings</title>
+        <authors>Spritely</authors>
+        <owners>Spritely</owners>
+        <language>en-US</language>
+        <licenseUrl>https://github.com/spritely/BuildSettings/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/spritely/BuildSettings</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <summary>Build settings for Spritely .NET projects.</summary>
+        <description>Build settings for Spritely projects. Only meant to be consumed by other Spritely projects. You can use it as an example to create your own Spritely.Build extensions to customize your own builds though (copy and modify to get the desired behavior)</description>
+        <copyright>Copyright (C) 2015</copyright>
+        <tags>Spritely BuildSettings .NET</tags>
+    </metadata>
+    <files>
+        <file src="*.targets" />
+        <file src="*.xml" />
+        <file src="*.ruleset" />
+    </files>
+</package>
