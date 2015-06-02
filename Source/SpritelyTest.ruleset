@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RuleSet Name="CoMetrics All Test Rules" Description="This rule set contains all rules with minimal test exceptions per team decisions." ToolsVersion="12.0">
+<RuleSet Name="Spritely All Test Rules" Description="This rule set contains all Microsoft rules as errors with a few additional relaxations as appropriate for testing." ToolsVersion="12.0">
   <IncludeAll Action="Error" />
   <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
     <Rule Id="CA1000" Action="Error" />
@@ -102,9 +102,9 @@
     <Rule Id="CA1702" Action="Error" />
     <Rule Id="CA1703" Action="Error" />
     <Rule Id="CA1704" Action="Error" />
-    <Rule Id="CA1707" Action="Error" />
+    <Rule Id="CA1707" Action="None" />
     <Rule Id="CA1708" Action="Error" />
-    <Rule Id="CA1709" Action="Error" />
+    <Rule Id="CA1709" Action="None" />
     <Rule Id="CA1710" Action="Error" />
     <Rule Id="CA1711" Action="Error" />
     <Rule Id="CA1712" Action="Error" />
@@ -136,7 +136,7 @@
     <Rule Id="CA1819" Action="Error" />
     <Rule Id="CA1820" Action="Error" />
     <Rule Id="CA1821" Action="Error" />
-    <Rule Id="CA1822" Action="Error" />
+    <Rule Id="CA1822" Action="None" />
     <Rule Id="CA1823" Action="Error" />
     <Rule Id="CA1824" Action="Error" />
     <Rule Id="CA1900" Action="Error" />

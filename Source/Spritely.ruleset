@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RuleSet Name="CoMetrics All Rules" Description="This rule set contains all rules with minimal exceptions per team decisions." ToolsVersion="12.0">
+<RuleSet Name="Spritely All Rules" Description="This rule set contains all Microsoft rules as errors with minimal exceptions." ToolsVersion="12.0">
   <IncludeAll Action="Error" />
   <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
     <Rule Id="CA1000" Action="Error" />
