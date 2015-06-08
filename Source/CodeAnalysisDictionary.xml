@@ -14,7 +14,7 @@
          <Term CompoundAlternate=""></Term>
       </Compound>
       <DiscreteExceptions>
-         <Term></Term>
+         <Term>CatchAll</Term>
       </DiscreteExceptions>
    </Words>
    <Acronyms>
