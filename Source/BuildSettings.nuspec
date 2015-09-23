@@ -19,5 +19,6 @@
         <file src="*.targets" />
         <file src="*.xml" />
         <file src="*.ruleset" />
+        <file src="tools\*.*" target="tools" />
     </files>
 </package>
