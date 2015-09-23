@@ -16,7 +16,7 @@
         <tags>Spritely BuildSettings .NET</tags>
         <dependencies>
             <group>
-                <dependency id="Spritely.Build" version="0.2.2" />
+                <dependency id="Spritely.Build" version="0.2.3" />
             </group>
         </dependencies>
         <developmentDependency>true</developmentDependency>
