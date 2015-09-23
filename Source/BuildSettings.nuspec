@@ -14,6 +14,12 @@
         <description>Build settings for Spritely projects. Only meant to be consumed by other Spritely projects. You can use it as an example to create your own Spritely.Build extensions to customize your own builds though (copy and modify to get the desired behavior)</description>
         <copyright>Copyright (C) 2015</copyright>
         <tags>Spritely BuildSettings .NET</tags>
+        <dependencies>
+            <group>
+                <dependency id="Spritely.Build" version="0.2.2" />
+            </group>
+        </dependencies>
+        <developmentDependency>true</developmentDependency>
     </metadata>
     <files>
         <file src="*.targets" />
