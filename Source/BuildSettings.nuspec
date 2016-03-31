@@ -12,7 +12,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <summary>Build settings for Spritely .NET projects.</summary>
         <description>Build settings for Spritely projects. Only meant to be consumed by other Spritely projects. You can use it as an example to create your own Spritely.Build extensions to customize your own builds though (copy and modify to get the desired behavior)</description>
-        <copyright>Copyright (C) 2015</copyright>
+        <copyright>Copyright (C) 2016</copyright>
         <tags>Spritely BuildSettings .NET</tags>
         <dependencies>
             <group>
