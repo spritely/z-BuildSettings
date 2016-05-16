@@ -4,8 +4,8 @@
         <id>Spritely.BuildSettings</id>
         <version>$version$</version>
         <title>Spritely.BuildSettings</title>
-        <authors>Spritely</authors>
-        <owners>Spritely</owners>
+        <authors>Spritely Developers</authors>
+        <owners>Spritely Developers</owners>
         <language>en-US</language>
         <licenseUrl>https://github.com/spritely/BuildSettings/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/spritely/BuildSettings</projectUrl>
